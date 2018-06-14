@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-security-oauth-resources/demo-security-oauth-resources.iml" filepath="$PROJECT_DIR$/demo-security-oauth-resources/demo-security-oauth-resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-security-oauth2-authorizationServer/demo-security-oauth2-authorizationServer.iml" filepath="$PROJECT_DIR$/demo-security-oauth2-authorizationServer/demo-security-oauth2-authorizationServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/demo-spring-boot-security-oauth2.iml" filepath="$PROJECT_DIR$/.idea/demo-spring-boot-security-oauth2.iml" />
+    </modules>
+  </component>
+</project>
